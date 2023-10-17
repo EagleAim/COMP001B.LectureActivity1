@@ -1,0 +1,19 @@
+p {
+    color: orange;
+}
+
+h1 {
+    color: blue;
+}
+
+intro-text {
+    color: orange;
+}
+
+a:hover {
+    color: orange
+}
+
+p::first-letter {
+    font-size: 4em;
+    font-family: cursive;
